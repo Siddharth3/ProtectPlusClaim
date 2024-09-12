@@ -40,6 +40,7 @@ For any questions or issues related to the dashboard, please contact:
 #### LinkedIn: [Siddharth Sahni](https://www.linkedin.com/in/er-siddharth-sahni-36b227103/)
 
 ### Screenshot:
-<img width="591" alt="Screenshot" src="https://github.com/user-attachments/assets/d3282005-ff20-420e-9f3f-91012f6f71fe">
+<img width="827" alt="Screenshot" src="https://github.com/user-attachments/assets/6e8387d3-4c25-4ad9-9886-ecbb115ec9ed">
+
 
 
