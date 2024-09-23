@@ -4,7 +4,7 @@
 #### Purpose:
 The ProtectPlusClaim Dashboard provides insights into Claim amount with the help of gender, age, bmi, bloodpressure, smoking habbit, region, children count. It aims to help company's stakeholder make data-driven decisions like: claim amount for next year or approval amount for future by visualizing trends, KPIs, and other critical data points.
 #### Audience:
-This dashboard is intended for use by any of the cricket fan, team management and also team owners.
+This dashboard is intended for use by sales & finance team, and stakeholders.
 
 ### 2. Data Sources (each_match_record.csv)
 #### Data provided(Columns):
